@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/byte-buddy-1.8.12.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/geolatte-geom-1.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-c3p0-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-commons-annotations-5.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-core-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-envers-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-jpamodelgen-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-osgi-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-proxool-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-release-5.4.10.Final.zip"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/hibernate-spatial-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/jandex-2.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/javassist-3.22.0-GA.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/jts-core-1.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/org.osgi.compendium-4.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/org.osgi.core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/postgresql-42.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/hibernate_jar/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/jsp-api.jar"/>
+	<classpathentry kind="lib" path="F:/JavaStudy/java_library/servlet-api.jar"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classpath"/>
+</classpath>

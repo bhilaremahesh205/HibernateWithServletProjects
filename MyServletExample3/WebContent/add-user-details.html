@@ -1,0 +1,59 @@
+
+<html>
+<body>
+	
+	<br>
+	<form action="addUserDetailsAction" method="post">
+		<br><a href='searchUserAction?actionName=search'>Search Users</a>
+		<table border="2" style="text-align:left; width:500px; height: 400px;">
+			<tr>
+				<th colspan="2"><h1>Add User Form</h1></th>
+			</tr>
+			<tr>
+				<td>Username :</td>
+				<td><input type="text" name="uname" />
+			</tr>
+			<tr>
+				<td>Password :</td>
+				<td><input type="password" name="upass" /></td>
+			</tr>
+			<tr>
+				<td>Address</td>
+				<td><input type="address" name="address" /></td>
+			</tr>
+			<tr>
+				<td>Gender</td>
+				<td>
+					Male <input type="radio" name="gender" value="0"/>
+					Female <input type="radio" name="gender" value="1"/>		
+				</td>
+			</tr>
+			<tr>
+				<td>City</td>
+				<td>
+					<select name="city">
+					<option value="0">-SelectCity-</option>
+					<option value="Pune">Pune</option>
+					<option value="Satara">Satara</option>
+					<option value="Dhule">Dhule</option>
+					<option value="Mumbai">Mumbai</option>
+					<option value="Thane">Thane</option>
+					<option value="Aurangabad">Aurangabad</option>
+					</select>		
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<button type="reset">Reset</button>
+				</td>
+				<td>
+					<button type="submit">Submit</button>
+				</td>
+			</tr>
+		</table>
+		<br><a href='searchUserAction?actionName=search'>Search Users</a>
+	</form>
+</body>
+
+</html>
+
